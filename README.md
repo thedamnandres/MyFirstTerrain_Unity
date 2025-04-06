@@ -2,13 +2,6 @@
 
 En esta actividad se creo un terreno en Unity el cual esta inspirado en un apocalipsis zombie 🧟, este terreno contiene varios elementos que cumplen con lo pedido asi como la creatividad abierta. ✨
 
-## Tabla de Contenidos
-
-- [Ejecución del Proyecto](#ejecución-del-proyecto)
-- [Navegación en el Proyecto](#navegación-en-el-proyecto)
-- [Cómo Navegar en la Escena Principal](#cómo-navegar-en-la-escena-principal)
-
-
 ## Ejecución del Proyecto  🚀
 
 1. Abre el proyecto en Unity a través de Unity Hub.
@@ -32,7 +25,7 @@ El proyecto está organizado en las siguientes carpetas principales:
 
 - **Packages:** Paquetes y dependencias que el proyecto utiliza.
 
-### Cómo Navegar en la Escena Principal  🎮
+## Cómo Navegar en la Escena Principal  🎮
   
 - **Controles del Juego:**  
   - `PlayerController.cs`: Maneja el movimiento del personaje, el cual se puede mover utilizando las flechas o las teclas AWSD, y salta con la tecla de espacio.
