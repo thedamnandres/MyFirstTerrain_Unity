@@ -6,9 +6,6 @@ En esta actividad se creo un terreno en Unity el cual esta inspirado en un apoca
 
 - [Ejecución del Proyecto](#ejecución-del-proyecto)
 - [Navegación en el Proyecto](#navegación-en-el-proyecto)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
 
 ## Ejecución del Proyecto
 
